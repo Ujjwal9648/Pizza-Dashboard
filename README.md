@@ -24,3 +24,5 @@ Data modeling
 DAX measures
 Interactive slicers
 KPI cards and charts
+
+https://github.com/Ujjwal9648/Pizza-Dashboard/blob/main/Pizza_Dashboard_Page_1.png
